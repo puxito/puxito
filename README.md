@@ -1,12 +1,29 @@
-### Hi there, I'm @puxito! 👋
+# ¡Hola! Soy Iván Castañeda 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and constantly expanding my skills in various domains. Here's a little about me:
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software y me encanta crear cosas interesantes. Echa un vistazo a algunos de mis proyectos destacados a continuación:
 
-- 👀 I'm interested in web development, databases, systems, and networking.
-- 🌱 I'm currently learning the ins and outs of web programming, database management, and system administration.
-- 💞️ I'm open to collaborating on exciting projects that challenge and inspire me.
-- 📫 You can reach out to me via email at puchitolucky@gmail.com.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Besides being a tech enthusiast, I'm also an artist, particularly fond of drawing.
+## Proyectos Destacados
 
-Feel free to explore my repositories and don't hesitate to connect! Let's create something awesome together! 🚀
+### [TFG - ASIR](https://github.com/puxito/TFG)
+Este es mi proyecto integrado para el Grado Superior de ASIR. Una página de dietética tanto para usuarios inexpertos como avanzados.
+Etiquetas: JavaScript, HTML, CSS, PHP
+
+## Tecnologías que utilizo
+
+- Lenguajes de Programación: JavaScript, HTML, CSS, PHP
+- Frameworks y Bibliotecas: Alertify.js, JQuery
+- Bases de Datos: SQL, Mongo DB, PL/SQL
+- Otros: XML, XSD, DTD, XSL, XSML
+
+## Estadísticas
+
+![Contador de Vistas](https://komarev.com/ghpvc/?username=Puxito)
+
+## Contacto
+
+¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!
+
+- Email: puxitolucky@gmail.com
+- LinkedIn: [Iván Castañeda Álvarez](https://www.linkedin.com/in/iván-castañeda-álvarez-a92009251)
+
+¡Gracias por visitar mi perfil!
