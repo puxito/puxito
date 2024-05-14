@@ -19,6 +19,8 @@ Etiquetas: JavaScript, HTML, CSS, PHP
 
 ![Contador de Vistas](https://komarev.com/ghpvc/?username=Puxito)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a02b93a-607e-4eb0-95fa-5862e6deec96/1c57d6eb-80f4-44c0-b93e-fb7b29dfb1f2.png" /></a>
+
 ## Contacto
 
 ¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!
