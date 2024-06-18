@@ -25,7 +25,7 @@ Etiquetas: JavaScript, HTML, CSS, PHP
 
 ¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!
 
-- Email: puxitolucky@gmail.com
+- Email: puchitolucky@gmail.com
 - LinkedIn: [Iván Castañeda Álvarez](https://www.linkedin.com/in/iván-castañeda-álvarez-a92009251)
 
 ¡Gracias por visitar mi perfil!
