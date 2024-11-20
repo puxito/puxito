@@ -1,31 +1,41 @@
-# ¡Hola! Soy Iván Castañeda 👋
+# ¡Hola! Soy Iván Castañeda 👋  
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software y me encanta crear cosas interesantes. Echa un vistazo a algunos de mis proyectos destacados a continuación:
+¡Bienvenido a mi perfil de GitHub! Soy Administrador de Sistemas Informáticos en Red, con experiencia en Desarrollo Web y Ciberseguridad. Mi pasión es construir soluciones innovadoras y eficientes mientras aprendo continuamente sobre nuevas tecnologías.  
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados  
 
-### [TFG - ASIR](https://github.com/puxito/TFG)
-Este es mi proyecto integrado para el Grado Superior de ASIR. Una página de dietética tanto para usuarios inexpertos como avanzados.
-Etiquetas: JavaScript, HTML, CSS, PHP
+### [TFG - ASIR](https://github.com/puxito/TFG-DEFINITIVO)  
+Este es mi proyecto integrado para el Grado Superior de ASIR. Una página de dietética diseñada tanto para usuarios inexpertos como avanzados.  
+**Etiquetas:** JavaScript, HTML, CSS, PHP, Bootstrap  
 
-## Tecnologías que utilizo
+### [INVENTARIO EQUIPOS](https://github.com/puxito/inventario-bordas)
+Un proyecto que me permite la gestión de equipos y usuarios dentro de una organización. Además de la posibilidad de exportar en PDF.
 
-- Lenguajes de Programación: JavaScript, HTML, CSS, PHP
-- Frameworks y Bibliotecas: Alertify.js, JQuery
-- Bases de Datos: SQL, Mongo DB, PL/SQL
-- Otros: XML, XSD, DTD, XSL, XSML
+## 🛠️ Tecnologías que utilizo  
 
-## Estadísticas
+### Lenguajes de Programación  
+- JavaScript, PHP, JSON  
 
-![Contador de Vistas](https://komarev.com/ghpvc/?username=Puxito)
+### Frameworks y Bibliotecas  
+- Alertify.js, JQuery, Bootstrap, Laravel, React.js  
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a02b93a-607e-4eb0-95fa-5862e6deec96/1c57d6eb-80f4-44c0-b93e-fb7b29dfb1f2.png" /></a>
+### Bases de Datos  
+- SQL, MongoDB, PL/SQL  
 
-## Contacto
+### Lenguajes de Marcas y Otros  
+- HTML, CSS, XML, XSD, DTD, XSL, XSLT  
 
-¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!
+## 📊 Estadísticas  
 
-- Email: puchitolucky@gmail.com
-- LinkedIn: [Iván Castañeda Álvarez](https://www.linkedin.com/in/iván-castañeda-álvarez-a92009251)
+![Contador de Vistas](https://komarev.com/ghpvc/?username=Puxito)  
 
-¡Gracias por visitar mi perfil!
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a02b93a-607e-4eb0-95fa-5862e6deec96/1c57d6eb-80f4-44c0-b93e-fb7b29dfb1f2.png" /></a>  
+
+## 📞 Contacto  
+
+¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!  
+
+- **Email:** [ivanrani@gmail.com](mailto:ivanrani@gmail.com)  
+- **LinkedIn:** [Iván Castañeda Álvarez](https://www.linkedin.com/in/iván-castañeda-álvarez-a92009251)  
+
+¡Gracias por visitar mi perfil! 🌟  
