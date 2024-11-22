@@ -28,7 +28,13 @@ Un proyecto que me permite la gestión de equipos y usuarios dentro de una organ
 ## 📊 Estadísticas  
 
 ![Contador de Vistas](https://komarev.com/ghpvc/?username=Puxito)  
-
+<div aling="center">
+  <img height="150m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=puxito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=puxito&layout=compact&langs_count=8&theme=tokyonight"/>  
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=FranDona&theme=tokyonight&border_radius=6&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4a02b93a-607e-4eb0-95fa-5862e6deec96/1c57d6eb-80f4-44c0-b93e-fb7b29dfb1f2.png" /></a>  
 
 ## 📞 Contacto  
