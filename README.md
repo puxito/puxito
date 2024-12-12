@@ -54,7 +54,7 @@ Un proyecto que me permite la gestión de equipos y usuarios dentro de una organ
 
 ¡Si te interesan mis proyectos o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!  
 
-- **Email:** [ivanrani@gmail.com](mailto:ivanrani@gmail.com)  
+- **Email:** [ivanrani2004@gmail.com](mailto:ivanrani2004@gmail.com)  
 - **LinkedIn:** [Iván Castañeda Álvarez](https://www.linkedin.com/in/iván-castañeda-álvarez-a92009251)  
 
 ¡Gracias por visitar mi perfil! 🌟  
